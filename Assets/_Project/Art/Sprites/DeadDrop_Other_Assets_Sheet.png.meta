@@ -1,0 +1,1642 @@
+fileFormatVersion: 2
+guid: a9986434d35823543bbf88deacfeed31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3058513964985975582
+    second: DeadDrop_Other_Assets_Sheet_0
+  - first:
+      213: -4880485872368194490
+    second: DeadDrop_Other_Assets_Sheet_1
+  - first:
+      213: 8204473895665878837
+    second: DeadDrop_Other_Assets_Sheet_2
+  - first:
+      213: -5640737940414085356
+    second: DeadDrop_Other_Assets_Sheet_3
+  - first:
+      213: -2478973965727528565
+    second: DeadDrop_Other_Assets_Sheet_4
+  - first:
+      213: 1530718781096580968
+    second: DeadDrop_Other_Assets_Sheet_5
+  - first:
+      213: 6970410652617479363
+    second: DeadDrop_Other_Assets_Sheet_6
+  - first:
+      213: -6589786054810817369
+    second: DeadDrop_Other_Assets_Sheet_7
+  - first:
+      213: -4636268815736094499
+    second: DeadDrop_Other_Assets_Sheet_8
+  - first:
+      213: 4734515029273589469
+    second: DeadDrop_Other_Assets_Sheet_9
+  - first:
+      213: -5176815614796126802
+    second: DeadDrop_Other_Assets_Sheet_10
+  - first:
+      213: -3450774069041341737
+    second: DeadDrop_Other_Assets_Sheet_11
+  - first:
+      213: 4157845815679592920
+    second: DeadDrop_Other_Assets_Sheet_12
+  - first:
+      213: -1272807509802409370
+    second: DeadDrop_Other_Assets_Sheet_13
+  - first:
+      213: -198353220135596062
+    second: DeadDrop_Other_Assets_Sheet_14
+  - first:
+      213: 245510362334758693
+    second: DeadDrop_Other_Assets_Sheet_15
+  - first:
+      213: 7888238446302338332
+    second: DeadDrop_Other_Assets_Sheet_16
+  - first:
+      213: 4174754845975843295
+    second: DeadDrop_Other_Assets_Sheet_17
+  - first:
+      213: 1700615673707885096
+    second: DeadDrop_Other_Assets_Sheet_18
+  - first:
+      213: -2609013258497697123
+    second: DeadDrop_Other_Assets_Sheet_19
+  - first:
+      213: -3677965036633127721
+    second: DeadDrop_Other_Assets_Sheet_20
+  - first:
+      213: 252030455662289043
+    second: DeadDrop_Other_Assets_Sheet_21
+  - first:
+      213: 4209790095199722536
+    second: DeadDrop_Other_Assets_Sheet_22
+  - first:
+      213: -7597626133821845037
+    second: DeadDrop_Other_Assets_Sheet_23
+  - first:
+      213: -8687570531230007975
+    second: DeadDrop_Other_Assets_Sheet_24
+  - first:
+      213: 4637633236209878137
+    second: DeadDrop_Other_Assets_Sheet_25
+  - first:
+      213: -5129188827345442983
+    second: DeadDrop_Other_Assets_Sheet_26
+  - first:
+      213: 4615186224333033950
+    second: DeadDrop_Other_Assets_Sheet_27
+  - first:
+      213: -2314451188106432797
+    second: DeadDrop_Other_Assets_Sheet_28
+  - first:
+      213: 2453486658918012838
+    second: DeadDrop_Other_Assets_Sheet_29
+  - first:
+      213: 3483310055103080167
+    second: DeadDrop_Other_Assets_Sheet_30
+  - first:
+      213: 2242777485189750859
+    second: DeadDrop_Other_Assets_Sheet_31
+  - first:
+      213: 3680785545522846849
+    second: DeadDrop_Other_Assets_Sheet_32
+  - first:
+      213: -4273561543170908940
+    second: DeadDrop_Other_Assets_Sheet_33
+  - first:
+      213: 3845859537825950201
+    second: DeadDrop_Other_Assets_Sheet_34
+  - first:
+      213: -7626762636080253188
+    second: DeadDrop_Other_Assets_Sheet_35
+  - first:
+      213: 5920081866299123653
+    second: DeadDrop_Other_Assets_Sheet_36
+  - first:
+      213: 3984496283192117000
+    second: DeadDrop_Other_Assets_Sheet_37
+  - first:
+      213: 540335567595668672
+    second: DeadDrop_Other_Assets_Sheet_38
+  - first:
+      213: -6173859107764942922
+    second: DeadDrop_Other_Assets_Sheet_39
+  - first:
+      213: 5327902919002480337
+    second: DeadDrop_Other_Assets_Sheet_40
+  - first:
+      213: -97350093805980454
+    second: DeadDrop_Other_Assets_Sheet_41
+  - first:
+      213: -5913336839590173496
+    second: DeadDrop_Other_Assets_Sheet_42
+  - first:
+      213: -7737190918649610589
+    second: DeadDrop_Other_Assets_Sheet_43
+  - first:
+      213: 8081059195770790139
+    second: DeadDrop_Other_Assets_Sheet_44
+  - first:
+      213: 8667458574997817076
+    second: DeadDrop_Other_Assets_Sheet_45
+  - first:
+      213: 7869738046409888098
+    second: DeadDrop_Other_Assets_Sheet_46
+  - first:
+      213: 7347889394083113577
+    second: DeadDrop_Other_Assets_Sheet_47
+  - first:
+      213: -2407450377152385872
+    second: DeadDrop_Other_Assets_Sheet_48
+  - first:
+      213: -6791442630064778877
+    second: DeadDrop_Other_Assets_Sheet_49
+  - first:
+      213: 7205429417477178484
+    second: DeadDrop_Other_Assets_Sheet_50
+  - first:
+      213: -1075599157859695257
+    second: DeadDrop_Other_Assets_Sheet_51
+  - first:
+      213: 4690312890223209795
+    second: DeadDrop_Other_Assets_Sheet_52
+  - first:
+      213: 1279231821695284099
+    second: DeadDrop_Other_Assets_Sheet_53
+  - first:
+      213: 37615694917447513
+    second: DeadDrop_Other_Assets_Sheet_54
+  - first:
+      213: -1674975908606349413
+    second: DeadDrop_Other_Assets_Sheet_55
+  - first:
+      213: 1670982670048376816
+    second: DeadDrop_Other_Assets_Sheet_56
+  - first:
+      213: 6121598321824940982
+    second: DeadDrop_Other_Assets_Sheet_57
+  - first:
+      213: 4959973739846235606
+    second: DeadDrop_Other_Assets_Sheet_58
+  - first:
+      213: -2944498309939779485
+    second: DeadDrop_Other_Assets_Sheet_59
+  - first:
+      213: 235052418519677807
+    second: DeadDrop_Other_Assets_Sheet_60
+  - first:
+      213: -1939698714496012617
+    second: DeadDrop_Other_Assets_Sheet_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2248
+        width: 448
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e138f871f36027a20800000000000000
+      internalID: 3058513964985975582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2248
+        width: 448
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c6e2ef4f7054cb0800000000000000
+      internalID: -4880485872368194490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2132
+        width: 412
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5374128f9852cd170800000000000000
+      internalID: 8204473895665878837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2264
+        width: 448
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417cc86aab218b1b0800000000000000
+      internalID: -5640737940414085356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 2264
+        width: 448
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b898e55ff4ae89dd0800000000000000
+      internalID: -2478973965727528565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 2104
+        width: 392
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867d74e0f943e3510800000000000000
+      internalID: 1530718781096580968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 2268
+        width: 520
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c41dd7ce8fdbb060800000000000000
+      internalID: 6970410652617479363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 2112
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acad215f706c84a0800000000000000
+      internalID: -6589786054810817369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 2264
+        width: 372
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd044da731aa8afb0800000000000000
+      internalID: -4636268815736094499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4664
+        y: 2104
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6b997a55064b140800000000000000
+      internalID: 4734515029273589469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 2204
+        width: 480
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5a16450a14828b0800000000000000
+      internalID: -5176815614796126802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 2060
+        width: 216
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da59a664436c10d0800000000000000
+      internalID: -3450774069041341737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 6168
+        y: 2200
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d92d6a7db2a3b930800000000000000
+      internalID: 4157845815679592920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 6424
+        y: 2200
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66227ce3054165ee0800000000000000
+      internalID: -1272807509802409370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 6808
+        y: 2064
+        width: 208
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef43c51cce4f3df0800000000000000
+      internalID: -198353220135596062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 7228
+        y: 2100
+        width: 392
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52704afaf5a386300800000000000000
+      internalID: 245510362334758693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 7772
+        y: 2120
+        width: 328
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d1e6fb217a87d60800000000000000
+      internalID: 7888238446302338332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1596
+        width: 392
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd11bb2e965bfe930800000000000000
+      internalID: 4174754845975843295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1588
+        width: 408
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822f1dae1fcc99710800000000000000
+      internalID: 1700615673707885096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1584
+        width: 416
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ad5f8b34ceacbd0800000000000000
+      internalID: -2609013258497697123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1544
+        width: 496
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d40d2f294e35fcc0800000000000000
+      internalID: -3677965036633127721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 1588
+        width: 392
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a4563d546f7300800000000000000
+      internalID: 252030455662289043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1588
+        width: 504
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c565389cd2c6a30800000000000000
+      internalID: 4209790095199722536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 1624
+        width: 360
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d11355094fcf8690800000000000000
+      internalID: -7597626133821845037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1648
+        width: 384
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d32ec61ac8f6780800000000000000
+      internalID: -8687570531230007975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 1648
+        width: 384
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974c5da6bde2c5040800000000000000
+      internalID: 4637633236209878137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 1584
+        width: 416
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9572c28efe571d8b0800000000000000
+      internalID: -5129188827345442983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 5180
+        y: 1688
+        width: 396
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed195a13b6f6c0040800000000000000
+      internalID: 4615186224333033950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 1592
+        width: 336
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee6fea28ea61efd0800000000000000
+      internalID: -2314451188106432797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 6172
+        y: 1552
+        width: 456
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7d7fdfd198c0220800000000000000
+      internalID: 2453486658918012838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 6684
+        y: 1552
+        width: 456
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e627fc2a04375030800000000000000
+      internalID: 3483310055103080167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 7204
+        y: 1568
+        width: 440
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40aaf27d32ff1f10800000000000000
+      internalID: 2242777485189750859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 7676
+        y: 1660
+        width: 516
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c1847b3f6c41330800000000000000
+      internalID: 3680785545522846849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 3592
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc17853b6241b4c0800000000000000
+      internalID: -4273561543170908940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 1112
+        width: 424
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9e9289fdc3f5530800000000000000
+      internalID: 3845859537825950201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 1156
+        width: 456
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6f6327acb482690800000000000000
+      internalID: -7626762636080253188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 4604
+        y: 1196
+        width: 1540
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7adf9671b582250800000000000000
+      internalID: 5920081866299123653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 6208
+        y: 1088
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c7804246cb4730800000000000000
+      internalID: 3984496283192117000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 6652
+        y: 1072
+        width: 1540
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c48c0ef558af7700800000000000000
+      internalID: 540335567595668672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b74c5c1adb025aa0800000000000000
+      internalID: -6173859107764942922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ded8e4f97380f940800000000000000
+      internalID: 5327902919002480337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 576
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4f7dffa9426aef0800000000000000
+      internalID: -97350093805980454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 712
+        width: 520
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c42ffe797b9feda0800000000000000
+      internalID: -5913336839590173496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 588
+        width: 176
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aef2865ad9ff9490800000000000000
+      internalID: -7737190918649610589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 588
+        width: 168
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf062d4f580b52070800000000000000
+      internalID: 8081059195770790139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 576
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6882cd6aff84870800000000000000
+      internalID: 8667458574997817076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 620
+        width: 520
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26153abbe0de63d60800000000000000
+      internalID: 7869738046409888098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 580
+        width: 376
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a2f2f1972f8f560800000000000000
+      internalID: 7347889394083113577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 580
+        width: 376
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bca37f13a4079ed0800000000000000
+      internalID: -2407450377152385872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 5172
+        y: 600
+        width: 408
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3815b8a19e2ffb1a0800000000000000
+      internalID: -6791442630064778877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 580
+        width: 376
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47480e211e3def360800000000000000
+      internalID: 7205429417477178484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 6212
+        y: 580
+        width: 376
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7654013c344b211f0800000000000000
+      internalID: -1075599157859695257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 652
+        width: 512
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34da03b29b6571140800000000000000
+      internalID: 4690312890223209795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 508
+        width: 48
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383f58d609eb0c110800000000000000
+      internalID: 1279231821695284099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 752
+        width: 504
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fa8857643a58000800000000000000
+      internalID: 37615694917447513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 4100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f6e28194a41c8e0800000000000000
+      internalID: -1674975908606349413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadDrop_Other_Assets_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 4124
+        y: 192
+        width: 456
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7311a92e5803710800000000000000
+      internalID: 1670982670048376816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 527fda4912b0b634c97a60a6b23b22c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      DeadDrop_Other_Assets_Sheet_0: 3058513964985975582
+      DeadDrop_Other_Assets_Sheet_1: -4880485872368194490
+      DeadDrop_Other_Assets_Sheet_10: -5176815614796126802
+      DeadDrop_Other_Assets_Sheet_11: -3450774069041341737
+      DeadDrop_Other_Assets_Sheet_12: 4157845815679592920
+      DeadDrop_Other_Assets_Sheet_13: -1272807509802409370
+      DeadDrop_Other_Assets_Sheet_14: -198353220135596062
+      DeadDrop_Other_Assets_Sheet_15: 245510362334758693
+      DeadDrop_Other_Assets_Sheet_16: 7888238446302338332
+      DeadDrop_Other_Assets_Sheet_17: 4174754845975843295
+      DeadDrop_Other_Assets_Sheet_18: 1700615673707885096
+      DeadDrop_Other_Assets_Sheet_19: -2609013258497697123
+      DeadDrop_Other_Assets_Sheet_2: 8204473895665878837
+      DeadDrop_Other_Assets_Sheet_20: -3677965036633127721
+      DeadDrop_Other_Assets_Sheet_21: 252030455662289043
+      DeadDrop_Other_Assets_Sheet_22: 4209790095199722536
+      DeadDrop_Other_Assets_Sheet_23: -7597626133821845037
+      DeadDrop_Other_Assets_Sheet_24: -8687570531230007975
+      DeadDrop_Other_Assets_Sheet_25: 4637633236209878137
+      DeadDrop_Other_Assets_Sheet_26: -5129188827345442983
+      DeadDrop_Other_Assets_Sheet_27: 4615186224333033950
+      DeadDrop_Other_Assets_Sheet_28: -2314451188106432797
+      DeadDrop_Other_Assets_Sheet_29: 2453486658918012838
+      DeadDrop_Other_Assets_Sheet_3: -5640737940414085356
+      DeadDrop_Other_Assets_Sheet_30: 3483310055103080167
+      DeadDrop_Other_Assets_Sheet_31: 2242777485189750859
+      DeadDrop_Other_Assets_Sheet_32: 3680785545522846849
+      DeadDrop_Other_Assets_Sheet_33: -4273561543170908940
+      DeadDrop_Other_Assets_Sheet_34: 3845859537825950201
+      DeadDrop_Other_Assets_Sheet_35: -7626762636080253188
+      DeadDrop_Other_Assets_Sheet_36: 5920081866299123653
+      DeadDrop_Other_Assets_Sheet_37: 3984496283192117000
+      DeadDrop_Other_Assets_Sheet_38: 540335567595668672
+      DeadDrop_Other_Assets_Sheet_39: -6173859107764942922
+      DeadDrop_Other_Assets_Sheet_4: -2478973965727528565
+      DeadDrop_Other_Assets_Sheet_40: 5327902919002480337
+      DeadDrop_Other_Assets_Sheet_41: -97350093805980454
+      DeadDrop_Other_Assets_Sheet_42: -5913336839590173496
+      DeadDrop_Other_Assets_Sheet_43: -7737190918649610589
+      DeadDrop_Other_Assets_Sheet_44: 8081059195770790139
+      DeadDrop_Other_Assets_Sheet_45: 8667458574997817076
+      DeadDrop_Other_Assets_Sheet_46: 7869738046409888098
+      DeadDrop_Other_Assets_Sheet_47: 7347889394083113577
+      DeadDrop_Other_Assets_Sheet_48: -2407450377152385872
+      DeadDrop_Other_Assets_Sheet_49: -6791442630064778877
+      DeadDrop_Other_Assets_Sheet_5: 1530718781096580968
+      DeadDrop_Other_Assets_Sheet_50: 7205429417477178484
+      DeadDrop_Other_Assets_Sheet_51: -1075599157859695257
+      DeadDrop_Other_Assets_Sheet_52: 4690312890223209795
+      DeadDrop_Other_Assets_Sheet_53: 1279231821695284099
+      DeadDrop_Other_Assets_Sheet_54: 37615694917447513
+      DeadDrop_Other_Assets_Sheet_55: -1674975908606349413
+      DeadDrop_Other_Assets_Sheet_56: 1670982670048376816
+      DeadDrop_Other_Assets_Sheet_6: 6970410652617479363
+      DeadDrop_Other_Assets_Sheet_7: -6589786054810817369
+      DeadDrop_Other_Assets_Sheet_8: -4636268815736094499
+      DeadDrop_Other_Assets_Sheet_9: 4734515029273589469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

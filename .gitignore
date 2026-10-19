@@ -1,0 +1,41 @@
+# Unity generated folders
+[Ll]ibrary
+[Tt]emp
+[Oo]bj
+[Bb]uild
+[Bb]uilds
+[Ll]ogs
+[Uu]ser[Ss]ettings
+
+# IDE and editor files
+.vs
+.vscode
+.idea
+.gradle
+.csproj
+.sln
+.suo
+.user
+.userprefs
+.pidb
+.booproj
+.svclog
+.pdb
+.mdb
+
+# Unity generated files
+sysinfo.txt
+.stackdump
+.apk
+.aab
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Crash reports
+crashlytics-build.properties
+
+# Keep Unity package manifests and project settings tracked
+# Assets, Packages, and ProjectSettings should be committed
